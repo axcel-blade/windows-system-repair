@@ -4,7 +4,7 @@ This guide explains how to check and fix system errors on Windows using the comm
 ## 🛠 1. System File Checker (SFC)
 ### 🔧 Steps
 
-1. Open Command Prompt as Administrator: Press Windows + X → select Command Prompt (Admin) or Windows Terminal(Admin).
+1. Open Command Prompt as Administrator: Press Windows + X → select Command Prompt (Admin) or Windows Terminal (Admin).
 2. Run the following.
 ```
 sfc /scannow
