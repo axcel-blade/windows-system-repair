@@ -44,6 +44,12 @@ DISM /Online /Cleanup-Image /RestoreHealth
 sfc /scannow
 ```
 
+## ⚙️ Automate with a Batch File
+Instead of running each command manually, you can use a batch file to automate the process.
+
+### ▶️ How to Run
+- Right-click the file repair-windows.bat and choose Run as Administrator.
+
 ## ℹ️ Notes
 - These tools are built into Windows and safe to use.
 
