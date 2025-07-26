@@ -5,7 +5,6 @@ This guide explains how to check and fix system errors on Windows using the comm
 ### 🔧 Steps
 
 1. Open Command Prompt as Administrator: Press Windows + X → select Command Prompt (Admin) or Windows Terminal(Admin).
-
 2. Run the following.
 ```
 sfc /scannow
@@ -56,9 +55,6 @@ Instead of running each command manually, you can use a batch file to automate t
 - Requires an internet connection for DISM if using Windows Update as the repair source.
 
 - You can use these commands to fix issues like:
-
     - Missing/corrupt system files
-
     - Random crashes or BSODs
-
     - Windows Update problems
